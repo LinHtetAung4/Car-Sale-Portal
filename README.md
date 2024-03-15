@@ -9,11 +9,17 @@ As the lead developer, I spearheaded the development of the car sale portal, col
 
 **Technologies Used:**
 -Spring (STS): Utilized Spring framework for building robust and scalable web applications. Leveraged Spring Boot for rapid application development and Spring MVC for implementing web controllers and handling user requests.
+
 -Java: 
+
 -HTML/CSS/JavaScript: Designed and implemented user interfaces.
+
 -MySQL: Implemented database management using MySQL to store and manage vehicle listings, user information, and transaction records.
 
 **Key Features Implemented:**
+
 -User Registration and Authentication
+
 -Vehicle Search and Filtering
+
 -Admin Dashboard for Inventory Management
